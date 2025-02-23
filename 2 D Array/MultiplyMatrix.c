@@ -1,3 +1,5 @@
+// WAP to print the multiplication of two N*N (Square) matrix
+
 #include <stdio.h>
 
 #define N 3  // Define matrix size (NxN)
